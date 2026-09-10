@@ -1,1 +1,6 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=himashooo" alt="GitHub Streak" /></a>
+# Hi 👋, I'm Himanshu
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=himashooo)](https://git.io/streak-stats)
+
